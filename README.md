@@ -1,1 +1,5 @@
-# P2_TecWeb_backend
+# AppCar backend
+
+# ◉ Deploy  ✓
+# ◉ Banco de dados Postgrees ✓
+# ◉ Requisições realizadas no frontend ✓
